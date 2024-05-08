@@ -1,6 +1,6 @@
 {
-    "name": "app_rx",
-    "short_name": "app_rx",
+    "name": "AppRx",
+    "short_name": "AppRx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
