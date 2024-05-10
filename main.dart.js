@@ -9551,7 +9551,7 @@ return A.Q($async$azs,r)},
 b0R(){var s=$.z7(),r=A.a([],t.Z0),q=t.H
 s.ajp(null,null,new A.azt(),null,!0,t.EG.b(r),B.mm,t.cZ,q,q)},
 azt:function azt(){},
-aRs(){var s=A.aQj("http://api.AppRx.ir/"),r=new A.Ov(A.a([B.Dz],t.i6)),q=new A.a7r($,r,$,new A.a4O(A.b_A()),!1)
+aRs(){var s=A.aQj("https://api.AppRx.ir/"),r=new A.Ov(A.a([B.Dz],t.i6)),q=new A.a7r($,r,$,new A.a4O(A.b_A()),!1)
 q.YG$=s
 q.YH$=new A.a5m(A.aU(t.Gf))
 r.D(r,new A.Ow(new A.a7E(new A.a7F(),q),null,null,null))
